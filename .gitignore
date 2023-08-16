@@ -1,0 +1,13 @@
+## Here you can add the file or folders you don't want to push to the github repository
+
+#input data and models
+input/
+models/
+
+
+#data files
+*.csv 
+*.h5
+*.pkl
+*.pth
+
